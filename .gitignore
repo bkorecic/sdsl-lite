@@ -2,3 +2,5 @@ Make.helper
 build/
 cmake-build-debug/
 .idea/
+build_local/
+install/
